@@ -5,11 +5,10 @@
 
 ### header 3
 
-
+---java---
 public class {
- 
     public static void main(String args[])
     {
-        System.out.println("Static method");
+        System.out.println("hi github");
     }
 }
