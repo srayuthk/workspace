@@ -6,7 +6,7 @@
 ### header 3
 
 
-public class class {
+public class {
  
     public static void main(String args[])
     {
